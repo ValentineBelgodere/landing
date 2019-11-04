@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Exo|Kalam|Montserrat|Poiret+One|Raleway|Shadows+Into+Light&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+	margin: 0px;
+	color: #8D8C91;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+
+}
+
+h1 {
+	font-family: 'Poiret One', cursive;
+	text-transform: uppercase;
+	letter-spacing: 15px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-align: center;
+	margin-top: 60px;
+	color: #3684B1
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-align: center;
+	color: #3684B1
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-align: center;
+	margin-top: 60px;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding : 10px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: white;
+}
+
+.list-inline i:hover {
+	color: #31325D;
+}
+
+.typeform-widget {
+	margin-top: 60px;
+}
